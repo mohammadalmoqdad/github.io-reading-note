@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## **How to become a MINDSET person?**
+1. *Get yourself back for a moment*
 
-You can use the [editor on GitHub](https://github.com/mohammadalmoqdad/github.io-reading-note/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![img](https://miro.medium.com/max/500/1*vBIgzYynFKPIa1SfvM3_8w.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+2. *Hit as strong as you can*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![img](https://abovethelaw.com/wp-content/uploads/2015/06/lawyer-hammer-wall.jpg)
 
-```markdown
-Syntax highlighted code block
+3. *Keep yourself <del>out</del> IN!*
 
-# Header 1
-## Header 2
-### Header 3
+![img](https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/Vd3bj2jPe/videoblocks-fighter-man-silhouette-dark-mma-fighter-silhouette-on-dark-ring-boxer-stands-on-stage-before-fight-abstract-fighter-mixed-martial-arts-before-battle-boxer-silhouette-in-smoke-at-dark-studio_bnkquzfxz_thumbnail-1080_01.png)
 
-- Bulleted
-- List
+4 *Do it without hesitate!*
 
-1. Numbered
-2. List
+![img](https://c8.alamy.com/comp/G0RWXP/dont-hesitate-G0RWXP.jpg)
 
-**Bold** and _Italic_ and `Code` text
+5. *re-look in your good and bad attitudes*
 
-[Link](url) and ![Image](src)
-```
+![img](https://previews.123rf.com/images/bobaa22/bobaa221504/bobaa22150400008/39054333-listen-to-yourself-and-heart.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Mohammad Almokdad
+* ##### 22 years.
+* ##### from Syria.
+* ##### Graduated from Zarqa University with a Bacheolar degree in CS.
+* ##### Kyokoshinkay Karate guy.
+* ##### love volunteering and shared in some voluntery activities.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammadalmoqdad/github.io-reading-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
