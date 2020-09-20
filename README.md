@@ -12,7 +12,7 @@
 
 ![img](https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/Vd3bj2jPe/videoblocks-fighter-man-silhouette-dark-mma-fighter-silhouette-on-dark-ring-boxer-stands-on-stage-before-fight-abstract-fighter-mixed-martial-arts-before-battle-boxer-silhouette-in-smoke-at-dark-studio_bnkquzfxz_thumbnail-1080_01.png)
 
-4 *Do it without hesitate!*
+4. *Do it without hesitate!*
 
 ![img](https://c8.alamy.com/comp/G0RWXP/dont-hesitate-G0RWXP.jpg)
 
