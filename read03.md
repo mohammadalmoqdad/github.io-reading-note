@@ -12,4 +12,5 @@ GIT
 #### There are some comands for GIT we can use to save changes, move from directory to antother directory, to upload the files on the device to he [Github](https://github.com) and we can link a message of the reson of the changes tat we have made on our project.
 
 ###### **Here some of these commands**
+* `$ cd test`: it is chnging the directory poiter to another directory called test.
 
