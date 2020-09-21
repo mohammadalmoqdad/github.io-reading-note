@@ -13,4 +13,7 @@ GIT
 
 ###### **Here some of these commands**
 * `$ cd test`: it is chnging the directory poiter to another directory called test.
+* `$ git clone URL`: it is copting all versions of all files for a project to device.
+* ` $ git commit -m "any message here" `: This comand is used for attaching a messagr showing why the programmer made this change.
+
 
